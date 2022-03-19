@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es2020",
+        "module": "commonjs",
+        "outDir": "./dist/",
+        "rootDir": "./src/",
+        "strict": false,
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "experimentalDecorators": true
+    },
+    "exclude": ["./_test","./node_modules","./_doc"]
+}
