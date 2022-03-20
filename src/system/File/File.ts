@@ -153,3 +153,4 @@ export default class File {
     }
   }
 }
+console.log('test')
